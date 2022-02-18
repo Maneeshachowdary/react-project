@@ -1,8 +1,8 @@
 import React from "react";
-import First from "./First"
+import Bind from "./Bind";
 let App=()=>{
     return<>
-    <First/>
+    <Bind/>
     </>
 }
 export default App;

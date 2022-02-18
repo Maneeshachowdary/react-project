@@ -1,8 +1,9 @@
 import React from "react";
-import First from "./First"
+import One from "./One";
 let App=()=>{
     return<>
-    <First/>
+    <One/>
     </>
+    
 }
 export default App;
