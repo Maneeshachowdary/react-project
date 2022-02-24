@@ -1,20 +1,15 @@
 import React, { Component } from 'react'
-import First from './First';
+import Bind from './Bind';
  class App extends Component {
   render() {
     return (
       <div>
-       <First/>
-  
+       <Bind/>
       </div>
     )
   }
 }
 export default App;
-
-
-
-
 
 
 

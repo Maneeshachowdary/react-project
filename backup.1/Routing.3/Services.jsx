@@ -1,20 +1,13 @@
 import React, { Component } from 'react'
-import First from './First';
- class App extends Component {
+
+ class Services extends Component {
   render() {
     return (
       <div>
-       <First/>
-  
+        <h1>Maneesha</h1>
       </div>
     )
   }
 }
-export default App;
-
-
-
-
-
-
+export default Services
 
